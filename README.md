@@ -1,7 +1,7 @@
 # TIC-TAC-TOE Game | JAVA Swing class and AWT class
 
 - Download zip file
-- Extract it
+- Extract downloaded zip file
 - Open that folder
 - Open command prompt of that folder path
 - Write command to compile project
